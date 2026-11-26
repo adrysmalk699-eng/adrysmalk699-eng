@@ -12,7 +12,14 @@ I combine structured data management with modern Generative AI tools to deliver 
 * **Data & Audio Transcription:** Accurate audio transcription, clean data entry, and organized spreadsheet management.
 * **AI-Powered Workflows:** Leveraging Generative AI tools to streamline tasks, optimize content publishing, and boost productivity.
 
----
+------
+
+### 📁 Featured Work & Samples
+
+* [Audio Transcription & Formatting Sample](https://github.com/adrysmalk699-eng/adrysmalk699-eng/blob/main/audio-transcription-sample.md)
+* [Short Health Content Sample](https://github.com/adrysmalk699-eng/adrysmalk699-eng/blob/main/health-content-sample.md)
+* [AI Short Video Production Sample](https://github.com/adrysmalk699-eng/adrysmalk699-eng/blob/main/ai-short-video-sample.md)
+
 
 ### 🛠️ Tools & Skills
 
